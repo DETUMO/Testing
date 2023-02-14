@@ -1,3 +1,7 @@
-*{
+/*{
     background:linear-gradient(red 80%, aqua 75%);
+}*/
+
+.fit-picture {
+    width: 200px;
 }
